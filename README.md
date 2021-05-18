@@ -16,7 +16,7 @@
 ---
 
 
-# Operative systems I'm using right now
+# Operating systems I'm using right now
 <div>
 
  [<img src="https://artixlinux.org/img/artix-logo.png" width="50px" />][Artix]
