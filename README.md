@@ -1,15 +1,15 @@
 # Languages I'm using right now
 <div>
 
- [<img src="https://cnet1.cbsistatic.com/img/2013/04/02/3ded8fcf-fdb6-11e2-8c7c-d4ae52e62bcc/rust.png" width="50px" />][Rust]
+ [<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Rust_programming_language_black_logo.svg" width="70px" />][Rust]
  [<img src=https://golang.org/lib/godoc/images/go-logo-blue.svg width=100px />][Golang]
  [<img src=https://bgasparotto.com/wp-content/uploads/2016/03/ruby-logo.png width=50px />][Ruby]
  [<img src=https://crystal-lang.org/reference/assets/crystal-circ.svg width=50px />][Crystal]
 
 [Rust]: https://rust-lang.org
-[Golang]: https://golang.org/
 [Ruby]: http://ruby-lang.org
 [Crystal]: https://crystal-lang.org/
+[Golang]: https://golang.org/
 </div>
 
 
