@@ -2,8 +2,10 @@
 <div>
 
  [<img src="https://raw.githubusercontent.com/DumbMahreeo/DumbMahreeo/main/logos/rust_logo.svg" width="100px" />][Rust]
+ [<img src="https://raw.githubusercontent.com/DumbMahreeo/DumbMahreeo/main/logos/deno_logo.svg" width="100px" />][Deno]
 
 [Rust]: https://rust-lang.org
+[Deno]: https://deno.com/
 </div>
 
 
@@ -13,8 +15,10 @@
 <div>
 
  [<img src="https://raw.githubusercontent.com/neovim/neovim.github.io/master/logos/neovim-mark-flat.svg" width="90px" />][Neovim]
+ [<img src="https://code.visualstudio.com/assets/images/code-stable.png" width="90px" />][VSCode]
  
 [Neovim]: https://neovim.io/
+[VSCode]: https://code.visualstudio.com/
 
 ---
 
