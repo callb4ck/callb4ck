@@ -27,8 +27,17 @@
  
 [Neovim]: https://neovim.io/
 [VSCode]: https://code.visualstudio.com/
+</div>
 
 ---
+
+# Current OS
+<div>
+ 
+ [<img src="https://vanillaos.org/assets/images/brand/vanillaos-logo-dark.svg" width="300px" />][VanillaOS]
+
+ [VanillaOS]: https://vanillaos.org/
+</div>
 
 # Stats
 
