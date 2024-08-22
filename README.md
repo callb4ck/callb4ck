@@ -16,6 +16,16 @@
 
 ---
 
+# Proudly making
+
+[<img src="https://raw.githubusercontent.com/callb4ck/antifascist-software-logo/main/red-brackets.svg" width="300px" />][Antifaware]
+[<img src="https://raw.githubusercontent.com/callb4ck/antifascist-software-logo/main/black-brackets.svg" width="300px" />][Antifaware]
+
+
+[Antifaware]: https://github.com/callb4ck/antifascist-software-logo
+
+---
+
 # Stats
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=callb4ck&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
